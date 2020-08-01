@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Noura - aka Pythonista 👋
 
-<!--
-**nouraellm/nouraellm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Developer!
+- 🔭 I’m currently investigating [Odoo][website] tickets!
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun facts: I love to sing, write, and exercise!
+- 🥅 2020 Goals: 
+  - Complete and fix my messy projects (Lighty for ex).
+  - Contribute more to Open Source projects particularly Odoo.
+  - Take my skills to the next level and improve my knowledge.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="nouraellm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nouraellm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nouraellm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<img align="left" alt="Noura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nouraellm&show_icons=true&hide_border=true" />
+
+[website]: https://www.odoo.com/
+[twitter]: https://twitter.com/nouraellm
+[instagram]: https://instagram.com/nouraellm
+[linkedin]: https://linkedin.com/in/nouraellm
