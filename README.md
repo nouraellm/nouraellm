@@ -4,6 +4,7 @@
 - 🔭 I’m currently investigating [Odoo][website] tickets!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun facts: I love to sing, write, and exercise!
+- ⚡ And yeah I'm not very social with people that I don't know :p
 - 🥅 2020 Goals: 
   - Complete and fix my messy projects (Lighty for ex).
   - Contribute more to Open Source projects particularly Odoo.
