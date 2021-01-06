@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun facts: I love to sing, write, and exercise!
 - ⚡ And yeah I'm not very social with people that I don't know :p
-- 🥅 2020 Goals: 
+- 🥅 2021 Goals: 
   - Complete and fix my messy projects (Lighty for ex).
   - Contribute more to Open Source projects particularly Odoo.
   - Take my skills to the next level and improve my knowledge.
