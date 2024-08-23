@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-## 🛠️ Current Working on
+## 🛠️ Currently Working on
 
 - [x] Building 🇲🇦 communities.
 - [x] Writing technical articles on [Medium](https://medium.com/@flaredev).
