@@ -27,7 +27,7 @@
 ## 🛠️ Current Working on
 
 - [x] Building 🇲🇦 communities.
-- [x] Writing a technical articles on [Medium](https://medium.com/@flaredev).
+- [x] Writing technical articles on [Medium](https://medium.com/@flaredev).
 - [x] Leading development of an AI-driven analytics system.
 
 ## 📈 Data speaks louder than words
