@@ -34,12 +34,18 @@
 
 - I have no preference when it comes to programming languages, but I’m naturally drawn to high-complexity challenges.
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouraellm&show_icons=true&bg_color=0d1117&title_color=ffa500&text_color=ffffff&icon_color=ffa500" alt="Flare's GitHub stats" style="width: 80%;">
-  <a href="https://github.com/rahulbordoloi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraellm&hide=Jupyter%20Notebook&layout=compact&bg_color=0d1117&title_color=ffa500&text_color=ffffff&card_width=445" alt="Top Langs" style="width: 95%;">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nouraellm&show_icons=true&bg_color=0d1117&title_color=ffa500&text_color=ffffff&icon_color=ffa500" alt="Flare's GitHub stats" style="width: 80%;">
+    </td>
+    <td>
+      <a href="https://github.com/rahulbordoloi/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraellm&hide=Jupyter%20Notebook&layout=compact&bg_color=0d1117&title_color=ffa500&text_color=ffffff&card_width=445" alt="Top Langs" style="width: 95%;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
