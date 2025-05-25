@@ -17,7 +17,7 @@
       <ul>
         <li> ✅ Passion-fueled to bring visionary ideas to reality.</li>
         <li> ✅ Impact-driven to create technology that transforms lives.</li>
-        <li> ✅ Skilled at simplifying complex concepts through <a href="https://medium.com/@flaredev" target="_blank">Technical Writing</a></li>
+        <li> ✅ Skilled at simplifying complex concepts through <a href="https://medium.com/@nouraellm" target="_blank">Technical Writing</a></li>
       </ul>
     </td>
   </tr>
